@@ -1,0 +1,1 @@
+this is a try to learn the programming skills in python (1st project)
